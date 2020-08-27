@@ -1,0 +1,2 @@
+﻿  player.cpp
+c:\users\duoduo\source\repos\20200703_polygon\player.cpp(8): fatal error C1083: include ファイルを開けません。'sprite.h':No such file or directory
